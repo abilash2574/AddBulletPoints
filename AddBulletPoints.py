@@ -1,6 +1,6 @@
 #! python3
 # AddBulletPoints.py -- use this to add bullet points to the list of text copied
-# to the clipboard and it copies the new text to clipboard.
+# to the clipboard and it copies the new text to clipboard.``
 
 import pyperclip
 
